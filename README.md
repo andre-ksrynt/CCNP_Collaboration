@@ -1,6 +1,6 @@
-# CCNP Collaboration Study Resources 
+# CCNP Collaboration Study Resources - Update
 
-!!! Study Resources for helping you pass the exam !!!
+My Study Resources notes to concentrated on reflect the contents of the exam and for clarity purposes, an Objective!!
 1) Core Exam 350-801
   Implementing core collaboration technologies including infrastructure and design, protocols, codecs, and endpoints, Cisco IOS XE gateway and media resources, Call Control, QoS, and collaboration applications
    
